@@ -1,1 +1,9 @@
 # SmartBCH-DP-NFT
+
+NFT-ied DP
+
+Contract Address: 0xE138eA5464A36Ba6f8Cf0d7538942FC5234ED930
+Supply: 151
+
+Auction: https://oasis.cash/wallet/0xE138eA5464A36Ba6f8Cf0d7538942FC5234ED930
+
