@@ -1,0 +1,23 @@
+{
+  "dna": "4e19f4cfdbe2a3fdf0e035170aa5a26b71796d4c",
+  "name": "#16",
+  "description": "BCH DP",
+  "image": "https://raw.githubusercontent.com/cryptobugnft/SmartBCH-DP-NFT/main/assets/images/16.png",
+  "edition": 16,
+  "date": 1644676177182,
+  "attributes": [
+    {
+      "trait_type": "SBCH Member",
+      "value": "@Inuyasha0007"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Feather"
+    },
+    {
+      "trait_type": "QR",
+      "value": "BCH PH QR"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZo4Tt9rw2fPWxjzWXyiPmJv5NYKboqBddb1NdT8om5vM/16.png"
+}

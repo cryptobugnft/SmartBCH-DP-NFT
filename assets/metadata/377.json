@@ -1,0 +1,23 @@
+{
+  "dna": "3ca04ade19c6ba859fe5a0696060038921280788",
+  "name": "#377",
+  "description": "BCH DP",
+  "image": "https://raw.githubusercontent.com/cryptobugnft/SmartBCH-DP-NFT/main/assets/images/377.png",
+  "edition": 377,
+  "date": 1644676306549,
+  "attributes": [
+    {
+      "trait_type": "SBCH Member",
+      "value": "@zehrasky"
+    },
+    {
+      "trait_type": "Abstract",
+      "value": "Abstract"
+    },
+    {
+      "trait_type": "QR",
+      "value": "BCH PH QR"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZo4Tt9rw2fPWxjzWXyiPmJv5NYKboqBddb1NdT8om5vM/377.png"
+}

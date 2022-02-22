@@ -1,0 +1,23 @@
+{
+  "dna": "fe7984449ddfafcf360118673a5006af24dcfbb3",
+  "name": "#350",
+  "description": "BCH DP",
+  "image": "https://raw.githubusercontent.com/cryptobugnft/SmartBCH-DP-NFT/main/assets/images/350.png",
+  "edition": 350,
+  "date": 1644676297189,
+  "attributes": [
+    {
+      "trait_type": "SBCH Member",
+      "value": "@GlenCanete"
+    },
+    {
+      "trait_type": "Abstract",
+      "value": "Abstract"
+    },
+    {
+      "trait_type": "QR",
+      "value": "BCH PH QR"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZo4Tt9rw2fPWxjzWXyiPmJv5NYKboqBddb1NdT8om5vM/350.png"
+}

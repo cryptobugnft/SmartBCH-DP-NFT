@@ -1,0 +1,23 @@
+{
+  "dna": "3c7d1dba694cddadac3d11ebb19f121ff51ecb2e",
+  "name": "#201",
+  "description": "BCH DP",
+  "image": "https://raw.githubusercontent.com/cryptobugnft/SmartBCH-DP-NFT/main/assets/images/201.png",
+  "edition": 201,
+  "date": 1644676215078,
+  "attributes": [
+    {
+      "trait_type": "SBCH Member",
+      "value": "@mhaaira"
+    },
+    {
+      "trait_type": "Organic",
+      "value": "Bamboo"
+    },
+    {
+      "trait_type": "QR",
+      "value": "BCH PH QR"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZo4Tt9rw2fPWxjzWXyiPmJv5NYKboqBddb1NdT8om5vM/201.png"
+}

@@ -1,0 +1,23 @@
+{
+  "dna": "c91c60ac7117b206d460ead44cad6c4cb3930848",
+  "name": "#21",
+  "description": "BCH DP",
+  "image": "https://raw.githubusercontent.com/cryptobugnft/SmartBCH-DP-NFT/main/assets/images/21.png",
+  "edition": 21,
+  "date": 1644676178127,
+  "attributes": [
+    {
+      "trait_type": "SBCH Member",
+      "value": "@Chrizel21"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Feather"
+    },
+    {
+      "trait_type": "QR",
+      "value": "BCH PH QR"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZo4Tt9rw2fPWxjzWXyiPmJv5NYKboqBddb1NdT8om5vM/21.png"
+}

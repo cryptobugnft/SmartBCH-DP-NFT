@@ -1,0 +1,23 @@
+{
+  "dna": "1badabe64cdd9aa21f4c4d88875e827f7d2ce159",
+  "name": "#12",
+  "description": "BCH DP",
+  "image": "https://raw.githubusercontent.com/cryptobugnft/SmartBCH-DP-NFT/main/assets/images/12.png",
+  "edition": 12,
+  "date": 1644676176362,
+  "attributes": [
+    {
+      "trait_type": "SBCH Member",
+      "value": "@ellehcim02"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Feather"
+    },
+    {
+      "trait_type": "QR",
+      "value": "BCH PH QR"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZo4Tt9rw2fPWxjzWXyiPmJv5NYKboqBddb1NdT8om5vM/12.png"
+}

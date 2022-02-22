@@ -1,0 +1,23 @@
+{
+  "dna": "4f32d15c9ec92cdbc755230e21d105eb1c1d59dc",
+  "name": "#369",
+  "description": "BCH DP",
+  "image": "https://raw.githubusercontent.com/cryptobugnft/SmartBCH-DP-NFT/main/assets/images/369.png",
+  "edition": 369,
+  "date": 1644676303644,
+  "attributes": [
+    {
+      "trait_type": "SBCH Member",
+      "value": "@Ahrciel"
+    },
+    {
+      "trait_type": "Abstract",
+      "value": "Abstract"
+    },
+    {
+      "trait_type": "QR",
+      "value": "BCH PH QR"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZo4Tt9rw2fPWxjzWXyiPmJv5NYKboqBddb1NdT8om5vM/369.png"
+}

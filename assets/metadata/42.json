@@ -1,0 +1,23 @@
+{
+  "dna": "10f1160afd5ecb53a0b152fad039ccf6b2cad5e2",
+  "name": "#42",
+  "description": "BCH DP",
+  "image": "https://raw.githubusercontent.com/cryptobugnft/SmartBCH-DP-NFT/main/assets/images/42.png",
+  "edition": 42,
+  "date": 1644676181916,
+  "attributes": [
+    {
+      "trait_type": "SBCH Member",
+      "value": "@DeviloftheSouth"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Feather"
+    },
+    {
+      "trait_type": "QR",
+      "value": "BCH PH QR"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZo4Tt9rw2fPWxjzWXyiPmJv5NYKboqBddb1NdT8om5vM/42.png"
+}

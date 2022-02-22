@@ -1,0 +1,23 @@
+{
+  "dna": "20d7f833a7019c186d14a25b7495396a933a5c6b",
+  "name": "#145",
+  "description": "BCH DP",
+  "image": "https://raw.githubusercontent.com/cryptobugnft/SmartBCH-DP-NFT/main/assets/images/145.png",
+  "edition": 145,
+  "date": 1644676201215,
+  "attributes": [
+    {
+      "trait_type": "SBCH Member",
+      "value": "@Die1996"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Feather"
+    },
+    {
+      "trait_type": "QR",
+      "value": "BCH PH QR"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZo4Tt9rw2fPWxjzWXyiPmJv5NYKboqBddb1NdT8om5vM/145.png"
+}

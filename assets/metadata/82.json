@@ -1,0 +1,23 @@
+{
+  "dna": "d8988bb17cff1b55d952e4a1d9c87bcd8547fa12",
+  "name": "#82",
+  "description": "BCH DP",
+  "image": "https://raw.githubusercontent.com/cryptobugnft/SmartBCH-DP-NFT/main/assets/images/82.png",
+  "edition": 82,
+  "date": 1644676189134,
+  "attributes": [
+    {
+      "trait_type": "SBCH Member",
+      "value": "@Kimmie100"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Feather"
+    },
+    {
+      "trait_type": "QR",
+      "value": "BCH PH QR"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZo4Tt9rw2fPWxjzWXyiPmJv5NYKboqBddb1NdT8om5vM/82.png"
+}

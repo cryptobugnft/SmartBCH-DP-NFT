@@ -1,0 +1,23 @@
+{
+  "dna": "197e6d667401a189de34111f63040451c5527226",
+  "name": "#18",
+  "description": "BCH DP",
+  "image": "https://raw.githubusercontent.com/cryptobugnft/SmartBCH-DP-NFT/main/assets/images/18.png",
+  "edition": 18,
+  "date": 1644676177540,
+  "attributes": [
+    {
+      "trait_type": "SBCH Member",
+      "value": "@nelia72"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Feather"
+    },
+    {
+      "trait_type": "QR",
+      "value": "BCH PH QR"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZo4Tt9rw2fPWxjzWXyiPmJv5NYKboqBddb1NdT8om5vM/18.png"
+}
